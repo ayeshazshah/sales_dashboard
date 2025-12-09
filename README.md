@@ -49,7 +49,7 @@ The analysis of the sales data reveals several key performance indicators:
 •	Geographic Performance: Indore ($6.8K) and Pune ($6.2K) are our top-performing cities in terms of profit.
 
 
-Business Recommendations
+**Business Recommendations**
 
 Based on these results, we recommend the following strategic actions:
 
