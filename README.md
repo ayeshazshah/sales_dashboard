@@ -2,13 +2,17 @@
 
 
 Executive Summary
+
 This dashboard provides a comprehensive, up-to-the-minute look at our company's sales performance. The key objective is to quickly identify profit drivers, loss areas, and inventory trends across different product categories and sub-categories. With a total profit of $37K and 1,500 orders, this report helps us make smarter decisions to boost profitability.
 
 Business Problem
+
 The company needs a simple, visual tool to answer critical questions about its operational efficiency and product mix, specifically:
+
 •	Which products are making money, and which are losing it?
 •	Are there any significant seasonal trends or profit slumps we need to address?
 •	Which cities are generating the highest profit?
+
 Skills Used
 
 This dashboard was built using a powerful set of tools and analytical techniques:
@@ -18,8 +22,10 @@ This dashboard was built using a powerful set of tools and analytical techniques
 
 <img width="1339" height="750" alt="sales dashboard" src="https://github.com/user-attachments/assets/e7c00f1c-d37d-4c70-8140-d7519c145df3" />
 
+
  
 Results
+
 The analysis of the sales data reveals several key performance indicators:
 •	Top Sub-Categories: Printers ($8.6K profit) and Bookcases ($6.5K profit) are the highest-profit sub-categories and major profit drivers.
 •	Categories to Watch: While Clothing is the largest category by quantity (62.62%), Furniture contributes the highest percentage to profit (36.05%), indicating a higher profit margin.
@@ -28,6 +34,7 @@ The analysis of the sales data reveals several key performance indicators:
 •	Geographic Performance: Indore ($6.8K) and Pune ($6.2K) are our top-performing cities in terms of profit.
 
 Business Recommendations
+
 Based on these results, we recommend the following strategic actions:
 1.	Stop the Bleeding: Immediately investigate the five sub-categories showing a loss (e.g., Leggings, Furnishings). This could involve clearing old inventory, discontinuing the product, or raising prices.
 2.	Maximize High-Margin Items: Since Furniture drives the highest profit percentage, consider increasing marketing efforts for all Furniture sub-categories to capitalize on its high margin.
