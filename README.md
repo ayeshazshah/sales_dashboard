@@ -1,11 +1,11 @@
-📈 Sales Performance Dashboard ReadMe
+**📈 Sales Performance Dashboard ReadMe**
 
 
-Executive Summary
+**Executive Summary**
 
 This dashboard provides a comprehensive, up-to-the-minute look at our company's sales performance. The key objective is to quickly identify profit drivers, loss areas, and inventory trends across different product categories and sub-categories. With a total profit of $37K and 1,500 orders, this report helps us make smarter decisions to boost profitability.
 
-Business Problem
+**Business Problem**
 
 The company needs a simple, visual tool to answer critical questions about its operational efficiency and product mix, specifically:
 
@@ -16,7 +16,7 @@ The company needs a simple, visual tool to answer critical questions about its o
 •	Which cities are generating the highest profit?
 
 
-Skills Used
+**Skills Used**
 
 This dashboard was built using a powerful set of tools and analytical techniques:
 
@@ -26,12 +26,15 @@ This dashboard was built using a powerful set of tools and analytical techniques
 
 •	Business Intelligence (BI): Key metrics like 'Sum of Profit' and 'Count of Order ID' were calculated and presented clearly to provide a true picture of business health.
 
+**Dashboard**
+
 
 <img width="1339" height="750" alt="sales dashboard" src="https://github.com/user-attachments/assets/e7c00f1c-d37d-4c70-8140-d7519c145df3" />
 
 
+
  
-Results
+**Results**
 
 The analysis of the sales data reveals several key performance indicators:
 
